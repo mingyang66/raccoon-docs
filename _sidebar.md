@@ -2,7 +2,7 @@
 
 * [Guide](thread/ "多线程")
 	
-	- [getting-started](/Users/yaomingyang/Documents/IDE/workplace-java/otter-docs/github.md "多线程")
+	- [Telepresence](k8s/Telepresence工具 "Telepresence")
 	
 	- [running-services](thread/running-services "多线程")
 	  - [running-services](thread/running-services "多线程")

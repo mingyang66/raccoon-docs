@@ -7,7 +7,7 @@
 	- [running-services](thread/running-services "多线程")
 	  - [running-services](thread/running-services "多线程")
 
-- 多数据源
+- 数据库多数据源
   - [druid数据库连接池保活机制源码](datasource/druid数据库连接池保活机制源码 "多数据源")
   - [druid数据库连接池如何维护](datasource/druid数据库连接池如何维护 "多线程")
   - [druid数据库连接池物理连接超时时间phyTimeoutMills及物理最大连接数phyMaxUseCount](datasource/druid数据库连接池物理连接超时时间phyTimeoutMills及物理最大连接数phyMaxUseCount)
@@ -16,7 +16,7 @@
   - [druid数据库连接池initial-size参数详解](datasource/druid数据库连接池initial-size参数详解)
   - [druid数据库配置密码加密秘钥生成及配置修改](datasource/druid数据库配置密码加密秘钥生成及配置修改)
   - [druid数据源检测数据库连接有效性testOnBorrow、testOnReturn、testWhileIdle属性原理分析](datasource/druid数据源检测数据库连接有效性testOnBorrow、testOnReturn、testWhileIdle属性原理分析)
-  - [dynamicdatasource](datasource/dynamicdatasource)
+  - [Springboot+mybatis+druid注解模式动态切换多数据源](datasource/dynamicdatasource)
   - [Java查询Mysql数据库Decimal类型小数位自动截取](datasource/Java查询Mysql数据库Decimal类型小数位自动截取)
   - [mybatis-typehandlers-jsr310对Java日期对象和JDBC日期对象转换器过期](datasource/mybatis-typehandlers-jsr310对Java日期对象和JDBC日期对象转换器过期)
   - [Mybatis批处理学习笔记一](datasource/Mybatis批处理学习笔记一)

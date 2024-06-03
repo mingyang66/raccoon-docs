@@ -1,6 +1,6 @@
 - [Home](/) 
 
-* [Guide](thread/ "多线程")
+* k8s
 	
 	- [Telepresence](k8s/Telepresence工具 "Telepresence")
 	

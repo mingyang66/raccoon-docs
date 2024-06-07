@@ -2,7 +2,8 @@
 - 每日扫盲知识点
   - 202406
     - [1.Java中枚举类型比较推荐==而不推荐equals](dailyliteracy/2024/1.Java中枚举类型比较推荐==而不推荐equals)
-  
+    - [2.List.of,Arrays.asList,和Collections.singletonList创建列表的区别](dailyliteracy/2024/2.List.of,Arrays.asList,和Collections.singletonList创建列表的区别 "列表区别")
+    
   - 202407
   
 

@@ -1,6 +1,10 @@
 - [Home](/) 
 - 每日扫盲知识点
-  - [1.Java中枚举类型比较推荐==而不推荐equals](dailyliteracy/2024/1.Java中枚举类型比较推荐==而不推荐equals)
+  - 202406
+    - [1.Java中枚举类型比较推荐==而不推荐equals](dailyliteracy/2024/1.Java中枚举类型比较推荐==而不推荐equals)
+  
+  - 202407
+  
 
 
 * k8s

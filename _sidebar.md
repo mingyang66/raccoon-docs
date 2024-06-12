@@ -8,6 +8,7 @@
     - [5.Java列表List分组并排序](dailyliteracy/2024/5.Java列表List分组并排序)
     - [6.Mysql分组如何使用](dailyliteracy/2024/6.Mysql分组如何使用)
     - [7.Mysql的union语句](dailyliteracy/2024/7.Mysql的union语句)
+    - [8.Mysql的null值处理](dailyliteracy/2024/8.Mysql的null值处理)
     
   - 202407
   

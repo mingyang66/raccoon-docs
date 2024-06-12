@@ -6,6 +6,7 @@
     - [3.Java的Stream如何将实体类列表转换为Map](dailyliteracy/2024/3.Java的Stream如何将实体类列表转换为Map)
     - [4.Java中List集合中多个字段如何排序](dailyliteracy/2024/4.Java中List集合中多个字段如何排序)
     - [5.Java列表List分组并排序](dailyliteracy/2024/5.Java列表List分组并排序)
+    - [6.Mysql分组如何使用](dailyliteracy/2024/6.Mysql分组如何使用)
     
   - 202407
   

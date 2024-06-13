@@ -9,6 +9,7 @@
     - [6.Mysql分组如何使用](dailyliteracy/2024/6.Mysql分组如何使用)
     - [7.Mysql的union语句](dailyliteracy/2024/7.Mysql的union语句)
     - [8.Mysql的null值处理](dailyliteracy/2024/8.Mysql的null值处理)
+    - [9.Mysql常用函数及技巧](dailyliteracy/2024/9.Mysql常用函数及技巧)
     
   - 202407
   

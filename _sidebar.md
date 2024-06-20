@@ -12,6 +12,7 @@
     - [9.Mysql常用函数及技巧](dailyliteracy/2024/06/9.Mysql常用函数及技巧)
     - [10.Java延迟初始化Logger日志对象](dailyliteracy/2024/06/10.Java延迟初始化Logger日志对象)
     - [11.Java的module-info模块系统](dailyliteracy/2024/06/11.Java的module-info模块系统)
+    - [12.maven仓库推送报401Content-access](dailyliteracy/2024/06/12.maven仓库推送报401Content-access)
 
   - 202407
   

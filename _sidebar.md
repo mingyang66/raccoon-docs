@@ -1,18 +1,19 @@
 - [Home](/) 
 - 每日扫盲知识点
   - 202406
-    - [1.Java中枚举类型比较推荐==而不推荐equals](dailyliteracy/2024/06/1.Java中枚举类型比较推荐==而不推荐equals)
-    - [2.List.of,Arrays.asList,和Collections.singletonList创建列表的区别](dailyliteracy/2024/06/2.List.of,Arrays.asList,和Collections.singletonList创建列表的区别 "列表区别")
-    - [3.Java的Stream如何将实体类列表转换为Map](dailyliteracy/2024/06/3.Java的Stream如何将实体类列表转换为Map)
-    - [4.Java中List集合中多个字段如何排序](dailyliteracy/2024/06/4.Java中List集合中多个字段如何排序)
-    - [5.Java列表List分组并排序](dailyliteracy/2024/06/5.Java列表List分组并排序)
-    - [6.Mysql分组如何使用](dailyliteracy/2024/06/6.Mysql分组如何使用)
-    - [7.Mysql的union语句](dailyliteracy/2024/06/7.Mysql的union语句)
-    - [8.Mysql的null值处理](dailyliteracy/2024/06/8.Mysql的null值处理)
-    - [9.Mysql常用函数及技巧](dailyliteracy/2024/06/9.Mysql常用函数及技巧)
-    - [10.Java延迟初始化Logger日志对象](dailyliteracy/2024/06/10.Java延迟初始化Logger日志对象)
-    - [11.Java的module-info模块系统](dailyliteracy/2024/06/11.Java的module-info模块系统)
-    - [12.maven仓库推送报401Content-access](dailyliteracy/2024/06/12.maven仓库推送报401Content-access)
+    - [1.Java中枚举类型比较推荐==而不推荐equals](dailyliteracy/202406/1.Java中枚举类型比较推荐==而不推荐equals)
+    - [2.List.of,Arrays.asList,和Collections.singletonList创建列表的区别](dailyliteracy/202406/2.List.of,Arrays.asList,和Collections.singletonList创建列表的区别 "列表区别")
+    - [3.Java的Stream如何将实体类列表转换为Map](dailyliteracy/202406/3.Java的Stream如何将实体类列表转换为Map)
+    - [4.Java中List集合中多个字段如何排序](dailyliteracy/202406/4.Java中List集合中多个字段如何排序)
+    - [5.Java列表List分组并排序](dailyliteracy/202406/5.Java列表List分组并排序)
+    - [6.Mysql分组如何使用](dailyliteracy/202406/6.Mysql分组如何使用)
+    - [7.Mysql的union语句](dailyliteracy/202406/7.Mysql的union语句)
+    - [8.Mysql的null值处理](dailyliteracy/202406/8.Mysql的null值处理)
+    - [9.Mysql常用函数及技巧](dailyliteracy/202406/9.Mysql常用函数及技巧)
+    - [10.Java延迟初始化Logger日志对象](dailyliteracy/202406/10.Java延迟初始化Logger日志对象)
+    - [11.Java的module-info模块系统](dailyliteracy/202406/11.Java的module-info模块系统)
+    - [12.maven仓库推送报401Content-access](dailyliteracy/202406/12.maven仓库推送报401Content-access)
+    - [13.MavenWrapper安装指令](dailyliteracy/202406/13.MavenWrapper安装指令)
 
   - 202407
   

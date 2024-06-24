@@ -14,6 +14,7 @@
     - [11.Java的module-info模块系统](dailyliteracy/202406/11.Java的module-info模块系统)
     - [12.maven仓库推送报401Content-access](dailyliteracy/202406/12.maven仓库推送报401Content-access)
     - [13.MavenWrapper安装指令](dailyliteracy/202406/13.MavenWrapper安装指令)
+    - [14.maven-gpg-plugin插件](dailyliteracy/202406/14.maven-gpg-plugin插件)
 
   - 202407
   

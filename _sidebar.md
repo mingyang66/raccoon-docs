@@ -15,7 +15,8 @@
     - [12.maven仓库推送报401Content-access](dailyliteracy/202406/12.maven仓库推送报401Content-access)
     - [13.MavenWrapper安装指令](dailyliteracy/202406/13.MavenWrapper安装指令)
     - [14.maven-gpg-plugin插件](dailyliteracy/202406/14.maven-gpg-plugin插件)
-
+    - [15.Java取消警告SuppressWarnings注解](dailyliteracy/202406/15.Java取消警告SuppressWarnings注解)
+    
   - 202407
   
 

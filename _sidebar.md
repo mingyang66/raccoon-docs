@@ -16,6 +16,7 @@
     - [13.MavenWrapper安装指令](dailyliteracy/202406/13.MavenWrapper安装指令)
     - [14.maven-gpg-plugin插件](dailyliteracy/202406/14.maven-gpg-plugin插件)
     - [15.Java取消警告SuppressWarnings注解](dailyliteracy/202406/15.Java取消警告SuppressWarnings注解)
+    - [16.spring-boot-configuration-processor注释处理器](dailyliteracy/202406/16.spring-boot-configuration-processor注释处理器)
     
   - 202407
   

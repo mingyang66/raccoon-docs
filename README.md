@@ -12,29 +12,13 @@ export 'key'
 
 ###### 一、macos查看export命令设置的环境变量
 
-- 方案1：
+- 方案1：echo $PATH
 
-```sh
-echo $PATH
-```
+- 方案2：printenv
 
-- 方案2：
+- 方案3：env
 
-```sh
-printenv
-```
-
-- 方案3：
-
-```sh
-env
-```
-
-- 方案4：
-
-```sh
-vi ~/.bash_profile
-```
+- 方案4：vi ~/.bash_profile
 
 ###### 三、快捷键
 

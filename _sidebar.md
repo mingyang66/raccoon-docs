@@ -17,6 +17,7 @@
     - [14.maven-gpg-plugin插件](dailyliteracy/202406/14.maven-gpg-plugin插件)
     - [15.Java取消警告SuppressWarnings注解](dailyliteracy/202406/15.Java取消警告SuppressWarnings注解)
     - [16.spring-boot-configuration-processor注释处理器](dailyliteracy/202406/16.spring-boot-configuration-processor注释处理器)
+    - [17.spring如何给bean动态取不同的别名](dailyliteracy/202406/17.spring如何给bean动态取不同的别名)
     
   - 202407
   

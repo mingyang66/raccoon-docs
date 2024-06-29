@@ -18,7 +18,7 @@
     - [15.Java取消警告SuppressWarnings注解](dailyliteracy/202406/15.Java取消警告SuppressWarnings注解)
     - [16.spring-boot-configuration-processor注释处理器](dailyliteracy/202406/16.spring-boot-configuration-processor注释处理器)
     - [17.spring如何给bean动态取不同的别名](dailyliteracy/202406/17.spring如何给bean动态取不同的别名)
-    - [18.spring-boot-starter-data-redis支持功能详解](dailyliteracy/202406/18.spring-boot-starter-data-redis支持功能详解)
+    - [18.spring-boot-starter-data-redis是否支持reactive响应式编程](dailyliteracy/202406/18.spring-boot-starter-data-redis是否支持reactive响应式编程)
     
   - 202407
   

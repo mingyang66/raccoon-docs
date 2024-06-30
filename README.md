@@ -1,4 +1,8 @@
-# Docsify使用指南
+###### 破窗理论
+
+> 一个破碎的窗户，如果长期依赖没有修好，就会给建筑中的居民逐渐带来一种被废弃的感觉——感觉管理者并没有在意这栋建筑。这样会再有一个窗户被损坏。人们也开始乱丢东西、涂鸦，建筑被严重损坏。很快这栋建筑的损坏成都使得其主人都不想再维修它了，放弃的意愿就成了现实。
+
+###### Docsify使用指南
 
 - Docsify官方文档：[https://docsify.js.org/](https://docsify.js.org/)
 - Docsify左侧目录折叠：[https://github.com/iPeng6/docsify-sidebar-collapse](https://github.com/iPeng6/docsify-sidebar-collapse)

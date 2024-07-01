@@ -1,5 +1,7 @@
 - [Home](/) 
-- 每日扫盲知识点
+- 每日扫盲
+  - 202407
+    - [1.Java的package-info.java文件支持](dailyliteracy/202407/1.Java的package-info.java文件支持)
   - 202406
     - [1.Java中枚举类型比较推荐==而不推荐equals](dailyliteracy/202406/1.Java中枚举类型比较推荐==而不推荐equals)
     - [2.List.of,Arrays.asList,和Collections.singletonList创建列表的区别](dailyliteracy/202406/2.List.of,Arrays.asList,和Collections.singletonList创建列表的区别 "列表区别")
@@ -20,7 +22,6 @@
     - [17.spring如何给bean动态取不同的别名](dailyliteracy/202406/17.spring如何给bean动态取不同的别名)
     - [18.spring-boot-starter-data-redis是否支持reactive响应式编程](dailyliteracy/202406/18.spring-boot-starter-data-redis是否支持reactive响应式编程)
     
-  - 202407
   
 
 

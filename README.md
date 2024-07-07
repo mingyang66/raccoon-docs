@@ -27,3 +27,4 @@ export 'key'
 ###### 三、快捷键
 
 - 展示隐藏文件：Command+Shift+.
+- 强制退出程序：Command+Alt(option)+Esc

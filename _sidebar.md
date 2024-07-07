@@ -5,6 +5,7 @@
     - [2.springboot故障分析FailureAnalyzer](dailyliteracy/202407/2.springboot故障分析FailureAnalyzer)
     - [3.spring-data-redis中RedisRepository仓储](dailyliteracy/202407/3.spring-data-redis中RedisRepository仓储)
     - [4.Spring框架中PathMatchingResourcePatternResolver解析资源路径并匹配资源模式](dailyliteracy/202407/4.Spring框架中PathMatchingResourcePatternResolver解析资源路径并匹配资源模式)
+    - [5.RedisMessageListenerContainer容器初始化](dailyliteracy/202407/5.RedisMessageListenerContainer容器初始化)
   - 202406
     - [1.Java中枚举类型比较推荐==而不推荐equals](dailyliteracy/202406/1.Java中枚举类型比较推荐==而不推荐equals)
     - [2.List.of,Arrays.asList,和Collections.singletonList创建列表的区别](dailyliteracy/202406/2.List.of,Arrays.asList,和Collections.singletonList创建列表的区别 "列表区别")

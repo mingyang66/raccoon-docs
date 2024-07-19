@@ -8,6 +8,7 @@
     - [5.RedisMessageListenerContainer容器初始化](dailyliteracy/202407/5.RedisMessageListenerContainer容器初始化)
     - [6.Redis发布订阅PUBSUB](dailyliteracy/202407/6.Redis发布订阅PUBSUB)
     - [7.Redis的KeyExpirationEventMessageListener键过期监听器](dailyliteracy/202407/7.Redis的KeyExpirationEventMessageListener键过期监听器)    
+    - [8.RedisCache存入redis的数据key为何name和id的分隔符是两个冒号](dailyliteracy/202407/8.RedisCache存入redis的数据key为何name和id的分隔符是两个冒号)   
   - 202406
     - [1.Java中枚举类型比较推荐==而不推荐equals](dailyliteracy/202406/1.Java中枚举类型比较推荐==而不推荐equals)
     - [2.List.of,Arrays.asList,和Collections.singletonList创建列表的区别](dailyliteracy/202406/2.List.of,Arrays.asList,和Collections.singletonList创建列表的区别 "列表区别")

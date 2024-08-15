@@ -1,5 +1,7 @@
 - [Home](/) 
 - 每日扫盲
+  - 202408
+    - [1.Bill of Materials (BOM) POMs](dailyliteracy/202408/1.Bill of Materials (BOM) POMs)
   - 202407
     - [1.Java的package-info.java文件支持](dailyliteracy/202407/1.Java的package-info.java文件支持)
     - [2.springboot故障分析FailureAnalyzer](dailyliteracy/202407/2.springboot故障分析FailureAnalyzer)
@@ -9,6 +11,7 @@
     - [6.Redis发布订阅PUBSUB](dailyliteracy/202407/6.Redis发布订阅PUBSUB)
     - [7.Redis的KeyExpirationEventMessageListener键过期监听器](dailyliteracy/202407/7.Redis的KeyExpirationEventMessageListener键过期监听器)    
     - [8.RedisCache存入redis的数据key为何name和id的分隔符是两个冒号](dailyliteracy/202407/8.RedisCache存入redis的数据key为何name和id的分隔符是两个冒号)   
+    - [9.Maven持续集成（Continuous integration,简称CI）版本友好管理](dailyliteracy/202407/9.Maven持续集成（Continuous integration,简称CI）版本友好管理)   
   - 202406
     - [1.Java中枚举类型比较推荐==而不推荐equals](dailyliteracy/202406/1.Java中枚举类型比较推荐==而不推荐equals)
     - [2.List.of,Arrays.asList,和Collections.singletonList创建列表的区别](dailyliteracy/202406/2.List.of,Arrays.asList,和Collections.singletonList创建列表的区别 "列表区别")

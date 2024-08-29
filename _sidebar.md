@@ -2,6 +2,7 @@
 - 每日扫盲
   - 202408
     - [1.Bill of Materials (BOM) POMs](dailyliteracy/202408/1.Bill-of-Materials(BOM)POMs)
+    - [2.OpenFeign组件使用详解](dailyliteracy/202408/2.OpenFeign组件使用详解)
   - 202407
     - [1.Java的package-info.java文件支持](dailyliteracy/202407/1.Java的package-info.java文件支持)
     - [2.springboot故障分析FailureAnalyzer](dailyliteracy/202407/2.springboot故障分析FailureAnalyzer)

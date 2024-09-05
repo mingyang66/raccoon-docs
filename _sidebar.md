@@ -1,5 +1,9 @@
 - [Home](/) 
 - 每日扫盲
+  - 202409
+    - [1.spring-boot-maven-plugin插件](dailyliteracy/202409/1.spring-boot-maven-plugin插件)
+    - [2.Maven项目中dependencyManagement(BOM)和pluginManagement作用](dailyliteracy/202409/2.Maven项目中dependencyManagement(BOM)和pluginManagement作用)
+    - [3.Mybatis中sql数组为空判断](dailyliteracy/202409/3.Mybatis中sql数组为空判断)
   - 202408
     - [1.Bill of Materials (BOM) POMs](dailyliteracy/202408/1.Bill-of-Materials(BOM)POMs)
     - [2.OpenFeign组件使用详解](dailyliteracy/202408/2.OpenFeign组件使用详解)

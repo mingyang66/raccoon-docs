@@ -4,6 +4,9 @@
     - [1.spring-boot-maven-plugin插件](dailyliteracy/202409/1.spring-boot-maven-plugin插件)
     - [2.Maven项目中dependencyManagement(BOM)和pluginManagement作用](dailyliteracy/202409/2.Maven项目中dependencyManagement(BOM)和pluginManagement作用)
     - [3.Mybatis中sql数组为空判断](dailyliteracy/202409/3.Mybatis中sql数组为空判断)
+    - [4.SDKMAN!软件开发工具包管理器](dailyliteracy/202409/4.SDKMAN!软件开发工具包管理器)
+    - [5.SDKMAN!安装Maven](dailyliteracy/202409/5.SDKMAN!安装Maven)
+    - [6.SDKMAN!关联已安装JDK](dailyliteracy/202409/6.SDKMAN!关联已安装JDK)
   - 202408
     - [1.Bill of Materials (BOM) POMs](dailyliteracy/202408/1.Bill-of-Materials(BOM)POMs)
     - [2.OpenFeign组件使用详解](dailyliteracy/202408/2.OpenFeign组件使用详解)

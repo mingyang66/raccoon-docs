@@ -8,6 +8,7 @@
     - [5.SDKMAN!安装Maven](dailyliteracy/202409/5.SDKMAN!安装Maven)
     - [6.SDKMAN!关联已安装JDK](dailyliteracy/202409/6.SDKMAN!关联已安装JDK)
     - [7.SpringBootCLI命令行工具](dailyliteracy/202409/7.SpringBootCLI命令行工具)
+    - [8.搭建第一个SpringShell案例](dailyliteracy/202409/8.搭建第一个SpringShell案例)
   - 202408
     - [1.Bill of Materials (BOM) POMs](dailyliteracy/202408/1.Bill-of-Materials(BOM)POMs)
     - [2.OpenFeign组件使用详解](dailyliteracy/202408/2.OpenFeign组件使用详解)

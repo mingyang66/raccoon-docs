@@ -11,6 +11,7 @@
     - [8.搭建第一个SpringShell案例](dailyliteracy/202409/8.搭建第一个SpringShell案例)
     - [9.SpringShell基于注解定义命令](dailyliteracy/202409/9.SpringShell基于注解定义命令)
     - [10.Java反射机制中UndeclaredThrowableException异常](dailyliteracy/202409/10.Java反射机制中UndeclaredThrowableException异常)
+    - [11.什么是SQLite？](dailyliteracy/202409/11.什么是SQLite？)    
   - 202408
     - [1.Bill of Materials (BOM) POMs](dailyliteracy/202408/1.Bill-of-Materials(BOM)POMs)
     - [2.OpenFeign组件使用详解](dailyliteracy/202408/2.OpenFeign组件使用详解)

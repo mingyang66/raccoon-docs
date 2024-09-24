@@ -13,6 +13,7 @@
     - [10.Java反射机制中UndeclaredThrowableException异常](dailyliteracy/202409/10.Java反射机制中UndeclaredThrowableException异常)
     - [11.什么是SQLite？](dailyliteracy/202409/11.什么是SQLite？)
     - [12.redis-cli执行lua脚本](dailyliteracy/202409/12.redis-cli执行lua脚本)    
+    - [13.Field injection is not recommended – Spring IOC](dailyliteracy/202409/13.Field-injection-is-not-recommended)    
   - 202408
     - [1.Bill of Materials (BOM) POMs](dailyliteracy/202408/1.Bill-of-Materials(BOM)POMs)
     - [2.OpenFeign组件使用详解](dailyliteracy/202408/2.OpenFeign组件使用详解)

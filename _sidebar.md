@@ -14,6 +14,7 @@
   - [12.redis-cli执行lua脚本](dailyliteracy/202409/12.redis-cli执行lua脚本)    
   - [13.Field injection is not recommended – Spring IOC](dailyliteracy/202409/13.Field-injection-is-not-recommended)
   - [14.STOMP](dailyliteracy/202409/14.STOMP)
+  - [15.@MassageMapping和@SendTo注解详解](dailyliteracy/202409/15.@MassageMapping和@SendTo注解详解)
 * 202408
   - [1.Bill of Materials (BOM) POMs](dailyliteracy/202408/1.Bill-of-Materials(BOM)POMs)
   - [2.OpenFeign组件使用详解](dailyliteracy/202408/2.OpenFeign组件使用详解)

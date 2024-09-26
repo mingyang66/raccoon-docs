@@ -16,6 +16,7 @@
   - [14.STOMP](dailyliteracy/202409/14.STOMP)
   - [15.@MassageMapping和@SendTo注解详解](dailyliteracy/202409/15.@MassageMapping和@SendTo注解详解)
   - [16.springboot接口Get请求实体类入参](dailyliteracy/202409/16.springboot接口Get请求实体类入参)
+  - [17.配置websocket消息代理类AbstractBrokerRegistration](dailyliteracy/202409/17.配置websocket消息代理类AbstractBrokerRegistration)
 * 202408
   - [1.Bill of Materials (BOM) POMs](dailyliteracy/202408/1.Bill-of-Materials(BOM)POMs)
   - [2.OpenFeign组件使用详解](dailyliteracy/202408/2.OpenFeign组件使用详解)

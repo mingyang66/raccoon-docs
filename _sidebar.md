@@ -1,5 +1,7 @@
 - [首页](/) 
-* 202409
+* 2024年10月
+  - [1.test](dailyliteracy/202410/1.test)
+* 2024年09月
   - [1.spring-boot-maven-plugin插件](dailyliteracy/202409/1.spring-boot-maven-plugin插件)
   - [2.Maven项目中dependencyManagement(BOM)和pluginManagement作用](dailyliteracy/202409/2.Maven项目中dependencyManagement(BOM)和pluginManagement作用)
   - [3.Mybatis中sql数组为空判断](dailyliteracy/202409/3.Mybatis中sql数组为空判断)
@@ -17,10 +19,10 @@
   - [15.@MassageMapping和@SendTo注解详解](dailyliteracy/202409/15.@MassageMapping和@SendTo注解详解)
   - [16.springboot接口Get请求实体类入参](dailyliteracy/202409/16.springboot接口Get请求实体类入参)
   - [17.配置websocket消息代理类AbstractBrokerRegistration](dailyliteracy/202409/17.配置websocket消息代理类AbstractBrokerRegistration)
-* 202408
+* 2024年08月
   - [1.Bill of Materials (BOM) POMs](dailyliteracy/202408/1.Bill-of-Materials(BOM)POMs)
   - [2.OpenFeign组件使用详解](dailyliteracy/202408/2.OpenFeign组件使用详解)
-* 202407
+* 2024年07月
   - [1.Java的package-info.java文件支持](dailyliteracy/202407/1.Java的package-info.java文件支持)
   - [2.springboot故障分析FailureAnalyzer](dailyliteracy/202407/2.springboot故障分析FailureAnalyzer)
   - [3.spring-data-redis中RedisRepository仓储](dailyliteracy/202407/3.spring-data-redis中RedisRepository仓储)
@@ -30,7 +32,7 @@
   - [7.Redis的KeyExpirationEventMessageListener键过期监听器](dailyliteracy/202407/7.Redis的KeyExpirationEventMessageListener键过期监听器)    
   - [8.RedisCache存入redis的数据key为何name和id的分隔符是两个冒号](dailyliteracy/202407/8.RedisCache存入redis的数据key为何name和id的分隔符是两个冒号)   
   - [9.Maven持续集成（Continuous integration,简称CI）版本友好管理](dailyliteracy/202407/9.Maven持续集成（Continuous-integration,简称CI）版本友好管理)   
-* 202406
+* 2024年06月
   - [1.Java中枚举类型比较推荐==而不推荐equals](dailyliteracy/202406/1.Java中枚举类型比较推荐==而不推荐equals)
   - [2.List.of,Arrays.asList,和Collections.singletonList创建列表的区别](dailyliteracy/202406/2.List.of,Arrays.asList,和Collections.singletonList创建列表的区别 "列表区别")
   - [3.Java的Stream如何将实体类列表转换为Map](dailyliteracy/202406/3.Java的Stream如何将实体类列表转换为Map)

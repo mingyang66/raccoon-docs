@@ -1,6 +1,7 @@
 - [首页](/) 
 * 2024年10月
   - [1.DefaultSubscriptionRegistry注册订阅信息到内存中](dailyliteracy/202410/1.DefaultSubscriptionRegistry注册订阅信息到内存中)
+  - [2.WebSocketMessageBrokerStats聚合内部信息计数器的中心类](dailyliteracy/202410/2.WebSocketMessageBrokerStats聚合内部信息计数器的中心类)
 * 2024年09月
   - [1.spring-boot-maven-plugin插件](dailyliteracy/202409/1.spring-boot-maven-plugin插件)
   - [2.Maven项目中dependencyManagement(BOM)和pluginManagement作用](dailyliteracy/202409/2.Maven项目中dependencyManagement(BOM)和pluginManagement作用)

@@ -4,6 +4,7 @@
   - [2.WebSocketMessageBrokerStats聚合内部信息计数器的中心类](dailyliteracy/202410/2.WebSocketMessageBrokerStats聚合内部信息计数器的中心类)
   - [3.基于springboot-websocket-STOMP协议的heartbeat心跳](dailyliteracy/202410/3.基于springboot-websocket-STOMP协议的heartbeat心跳)
   - [4.springboot-websocket断开连接SessionDisconnectEvent时间状态码](dailyliteracy/202410/4.springboot-websocket断开连接SessionDisconnectEvent时间状态码)
+  - [5.Sec-WebSocket-Protocol和Sec-WebSocket-Version](dailyliteracy/202410/5.Sec-WebSocket-Protocol和Sec-WebSocket-Version)
 * 2024年09月
   - [1.spring-boot-maven-plugin插件](dailyliteracy/202409/1.spring-boot-maven-plugin插件)
   - [2.Maven项目中dependencyManagement(BOM)和pluginManagement作用](dailyliteracy/202409/2.Maven项目中dependencyManagement(BOM)和pluginManagement作用)

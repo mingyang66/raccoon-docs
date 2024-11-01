@@ -1,4 +1,6 @@
 - [首页](/) 
+* 2024年11月
+  - [1.LuaJava](dailyliteracy/202411/1.LuaJava)
 * 2024年10月
   - [1.DefaultSubscriptionRegistry注册订阅信息到内存中](dailyliteracy/202410/1.DefaultSubscriptionRegistry注册订阅信息到内存中)
   - [2.WebSocketMessageBrokerStats聚合内部信息计数器的中心类](dailyliteracy/202410/2.WebSocketMessageBrokerStats聚合内部信息计数器的中心类)
@@ -6,7 +8,7 @@
   - [4.springboot-websocket断开连接状态码CloseStatus](dailyliteracy/202410/4.springboot-websocket断开连接状态码CloseStatus)
   - [5.Sec-WebSocket-Protocol和Sec-WebSocket-Version](dailyliteracy/202410/5.Sec-WebSocket-Protocol和Sec-WebSocket-Version)
   - [6.springboot请求入参重复读问题ContentCachingRequestWrapper](dailyliteracy/202410/6.springboot请求入参重复读问题ContentCachingRequestWrapper)
-
+  - [7.注解@Valid和@Validated使用案例](dailyliteracy/202410/7.注解@Valid和@Validated使用案例)
 * 2024年09月
   - [1.spring-boot-maven-plugin插件](dailyliteracy/202409/1.spring-boot-maven-plugin插件)
   - [2.Maven项目中dependencyManagement(BOM)和pluginManagement作用](dailyliteracy/202409/2.Maven项目中dependencyManagement(BOM)和pluginManagement作用)

@@ -61,7 +61,9 @@
   - [18.spring-boot-starter-data-redis是否支持reactive响应式编程](dailyliteracy/202406/18.spring-boot-starter-data-redis是否支持reactive响应式编程)
   
   
-
+* NodeJs
+  
+  - [1.NodeJs环境安装](nodejs/1.NodeJs环境安装)
 
 * k8s
 	

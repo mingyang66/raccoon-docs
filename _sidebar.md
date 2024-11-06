@@ -66,6 +66,7 @@
   - [1.NodeJs环境安装](nodejs/1.NodeJs环境安装)
   - [2.npm镜像地址修改为淘宝](nodejs/2.npm镜像地址修改为淘宝)
   - [3.Express](nodejs/3.Express)  
+  - [4.NodeJs及Express常用函数](nodejs/4.NodeJs及Express常用函数)    
 * k8s
 	
 	- [Telepresence工具](k8s/Telepresence工具 "Telepresence")

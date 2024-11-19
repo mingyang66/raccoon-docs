@@ -1,6 +1,7 @@
 - [首页](/) 
 * 2024年11月
   - [1.LuaJava](dailyliteracy/202411/1.LuaJava)
+  - [2.Java11使用JVM同一日志框架启用日志记录](dailyliteracy/202411/2.Java11使用JVM同一日志框架启用日志记录)  
 * 2024年10月
   - [1.DefaultSubscriptionRegistry注册订阅信息到内存中](dailyliteracy/202410/1.DefaultSubscriptionRegistry注册订阅信息到内存中)
   - [2.WebSocketMessageBrokerStats聚合内部信息计数器的中心类](dailyliteracy/202410/2.WebSocketMessageBrokerStats聚合内部信息计数器的中心类)

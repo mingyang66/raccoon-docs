@@ -1,4 +1,6 @@
 - [首页](/) 
+* 2024年12月
+  - [1.knife4j+springboot3.4异常无法正确展示文档](dailyliteracy/202412/1.knife4j+springboot3.4异常无法正确展示文档)
 * 2024年11月
   - [1.LuaJava](dailyliteracy/202411/1.LuaJava)
   - [2.Java11使用JVM同一日志框架启用日志记录](dailyliteracy/202411/2.Java11使用JVM同一日志框架启用日志记录)  

@@ -7,6 +7,18 @@
 - Docsify官方文档：[https://docsify.js.org/](https://docsify.js.org/)
 - Docsify左侧目录折叠：[https://github.com/iPeng6/docsify-sidebar-collapse](https://github.com/iPeng6/docsify-sidebar-collapse)
 - Docsify切换深色和浅色主题：[https://github.com/LIGMATV/docsify-dark-switcher](https://github.com/LIGMATV/docsify-dark-switcher)
+###### 常用工具地址
+
+| [类方法命名](https://www.icanshock.fun/)                     | [AI检测器](https://decopy.ai/zh/ai-detector/)                | [JWT机密](https://www.orcc.top/tools/jwt)                    | [ExcaliDraw快速画图](https://excalidraw.com/)                | [Base64图片](http://m.91tool.com/base64) | [工具集](https://tool.lu/tool) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------- | ------------------------------ |
+| [2024开发者系统报告](https://www.jetbrains.com/zh-cn/lp/devecosystem-2024/#) | [Mermaid基于Js图表绘制工具](https://mermaid.js.org/intro/)   | [Cloudflare](https://www.cloudflare-cn.com/security-week-2025/updates/) | [Postman脚本](https://learning.postman.com/docs/tests-and-scripts/write-scripts/test-examples/) | [宝可梦](https://web2.52pokemon.cc/plan) |                                |
+| [spring-boot-github](https://github.com/spring-projects/spring-boot/releases/) | [JDK21下载](https://www.oracle.com/java/technologies/downloads) |                                                              |                                                              |                                          |                                |
+| [spring-boot4.0-upgrade](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-4.0-Migration-Guide) | [Maven仓库](https://mvnrepository.com/)                      |                                                              |                                                              |                                          |                                |
+| [spring-boot-dependencies](https://github.com/spring-projects/spring-boot/blob/main/platform/spring-boot-dependencies/build.gradle) |                                                              |                                                              |                                                              |                                          |                                |
+
+
+
+
 
 ###### 一、macos设置环境变量
 
@@ -28,3 +40,4 @@ export 'key'
 
 - 展示隐藏文件：Command+Shift+.
 - 强制退出程序：Command+Alt(option)+Esc
+

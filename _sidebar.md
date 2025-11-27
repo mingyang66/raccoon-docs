@@ -1,4 +1,16 @@
 - [首页](/) 
+* 特异功能
+  - [1.Mermaid图标](miscellaneous/1.mermaid图标)
+  - [2.常见错误案例解析](miscellaneous/2.常见错误案例解析)  
+* Upgrade
+  - [1.springboot3.5升级到springboot4.0](Upgrade/1.springboot3.5升级到springboot4.0)  
+* SDKMAN
+  - [1.SDKMAN!软件开发工具包管理器](SDKMAN/1.SDKMAN!软件开发工具包管理器)
+  - [2.SDKMAN!安装Maven](SDKMAN/2.SDKMAN!安装Maven)
+  - [3.SDKMAN!关联已安装JDK](SDKMAN/3.SDKMAN!关联已安装JDK)
+* JVM
+  - [1.Java11使用JVM同一日志框架启用日志记录](JVM/1.Java11使用JVM同一日志框架启用日志记录)
+  - [2.JDK常见问题](JVM/2.JDK常见问题)
 * 2025年01月
   - [1.springboot将Filter注册到servlet容器后执行顺序两种定义方案](dailyliteracy/202501/1.springboot将Filter注册到servlet容器后执行顺序两种定义方案)
 * 2024年12月
@@ -104,3 +116,6 @@
   - [3. logback packagingData属性配置作用及源码分析](base/logback/logback+packagingData属性配置作用及源码分析)
   - [4. Spring boot logback日志系统集成](base/logback/springboot+logback日志系统集成)
   - [5. springboot+mybatis如何将操作数据库sql记录到日志文件中](base/logback/springboot+mybatis如何将操作数据库sql记录到日志文件中)
+- 邮箱
+  - [1. SMTP或IMAP服务](email/1.SMTP或IMAP服务)  
+  - [2.基于spring-boot-starter-mail通过SMTP发送邮件](email/2.基于spring-boot-starter-mail通过SMTP发送邮件)  

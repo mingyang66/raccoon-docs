@@ -8,7 +8,7 @@
   - [1.SDKMAN!软件开发工具包管理器](SDKMAN/1.SDKMAN!软件开发工具包管理器)
   - [2.SDKMAN!安装Maven](SDKMAN/2.SDKMAN!安装Maven)
   - [3.SDKMAN!关联已安装JDK](SDKMAN/3.SDKMAN!关联已安装JDK)
-* JVM
+* JVM虚拟机
   - [1.Java11使用JVM同一日志框架启用日志记录](JVM/1.Java11使用JVM同一日志框架启用日志记录)
   - [2.JDK常见问题](JVM/2.JDK常见问题)
 - docker容器
@@ -17,13 +17,15 @@
   - [ 3.docker镜像-定制基于java21镜像](docker/定制java21镜像)
   - [ 4.docker镜像-定制基于java17的maven镜像](docker/定制基于java17的maven镜像)
   - [ 5.docker镜像-定制基于java21的maven镜像](docker/定制基于java21的maven镜像)
-  - [6.Docker容器目录varlibcontainers日志文件太大控制](docker/Docker容器目录varlibcontainers日志文件太大控制)
-- logger
+  - [ 6.Docker容器目录varlibcontainers日志文件太大控制](docker/Docker容器目录varlibcontainers日志文件太大控制)
+- logger日志
   - [1. 基于logback的纯java版本SDK实现](base/logback/解锁新技能《基于logback的纯java版本SDK实现》)
   - [2. logback标记日志过滤器MarkerFilter](base/logback/解锁新技能《logback标记日志过滤器MarkerFilter》)
   - [3. logback packagingData属性配置作用及源码分析](base/logback/logback+packagingData属性配置作用及源码分析)
   - [4. Spring boot logback日志系统集成](base/logback/springboot+logback日志系统集成)
   - [5. springboot+mybatis如何将操作数据库sql记录到日志文件中](base/logback/springboot+mybatis如何将操作数据库sql记录到日志文件中)
+  - [6. 基于logback的日志文件XZ压缩](base/logback/基于logback的日志文件XZ压缩)
+  - [7. 基于logback布局Layouts格式化日志消息](base/logback/基于logback布局Layouts格式化日志消息)
 - 数据库多数据源
   - [1. druid数据库连接池保活机制源码](datasource/druid数据库连接池保活机制源码 "多数据源")
   - [2. druid数据库连接池如何维护](datasource/druid数据库连接池如何维护 "多线程")

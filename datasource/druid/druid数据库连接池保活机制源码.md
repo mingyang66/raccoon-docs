@@ -1,6 +1,4 @@
-#### druid数据库连接池保活机制源码
-
-##### druid连接池未设置保活机制时如何对连接有效性保护？
+##### 一、druid连接池未设置保活机制时如何对连接有效性保护？
 
 1. 如果连接发生了致命性异常，则会加入保活连接数组，接下来校验有效性；
 2. 如果设置了物理连接超时时间，并且连接的空闲时间大于设置的物理连接超时时间，则会加入驱逐连接数组；
@@ -10,13 +8,13 @@
 
 > 未启用保活机制剔除后连接池中的连接不一定能够保证真实有效，如果防火墙关闭连接，或者其他不知情的场景关闭了连接，则可能导致连接的无效；也就是说不会对连接进行有效性检查；
 
-##### druid开启保活机制
+##### 二、druid开启保活机制
 
 如果设置了保活机制，并且空闲时间大于保活检查间隔时间，则将连接放入保活连接数组；接下来会对保活连接数组中的连接进行有效性检查
 
 > 启用保活机制后会对连接池中符合条件的连接进行连接有效性检查，确保连接的有效性；
 
-##### druid保活机制守护线程启动顺序如下：
+##### 三、druid保活机制守护线程启动顺序如下：
 
 1. com.alibaba.druid.pool.DruidDataSource#init
 2. com.alibaba.druid.pool.DruidDataSource#createAndStartDestroyThread
@@ -24,7 +22,7 @@
 4. com.alibaba.druid.pool.DruidDataSource.DestroyTask
 5. com.alibaba.druid.pool.DruidDataSource#shrink(boolean, boolean)
 
-##### DestroyConnectionThread守护线程：
+##### 四、DestroyConnectionThread守护线程：
 
 ```java
 public class DestroyConnectionThread extends Thread {
@@ -67,7 +65,7 @@ public class DestroyConnectionThread extends Thread {
 
 > 程序启动后守护线程会进入无线循环，根据心跳间隔时间time-between-eviction-runs-millis循环调用DestoryTask线程；
 
-##### DestoryTask线程源码：
+##### 五、DestoryTask线程源码：
 
 ```java
   public class DestroyTask implements Runnable {
@@ -87,7 +85,7 @@ public class DestroyConnectionThread extends Thread {
     }
 ```
 
-##### shirnk方法核心代码
+##### 六、shirnk方法核心代码
 
 ```java
     public void shrink(boolean checkTime, boolean keepAlive) {

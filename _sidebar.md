@@ -1,24 +1,35 @@
 - [首页](/) 
 * 特异功能
+  
   - [1.Mermaid图标](miscellaneous/1.mermaid图标)
   - [2.常见错误案例解析](miscellaneous/2.常见错误案例解析)  
+
 * Upgrade
-  - [1.springboot3.5升级到springboot4.0](Upgrade/1.springboot3.5升级到springboot4.0)  
+  
+  - [1.springboot3.0迁移指南](Upgrade/1.springboot3.0迁移指南)  
+  - [2.springboot4.0迁移指南](Upgrade/2.springboot4.0迁移指南)
+
 * SDKMAN
+  
   - [1.SDKMAN!软件开发工具包管理器](SDKMAN/1.SDKMAN!软件开发工具包管理器)
   - [2.SDKMAN!安装Maven](SDKMAN/2.SDKMAN!安装Maven)
   - [3.SDKMAN!关联已安装JDK](SDKMAN/3.SDKMAN!关联已安装JDK)
+
 * JVM虚拟机
+  
   - [1.Java11使用JVM同一日志框架启用日志记录](JVM/1.Java11使用JVM同一日志框架启用日志记录)
   - [2.JDK常见问题](JVM/2.JDK常见问题)
 - docker容器
+  
   - [ 1.docker镜像-定制基于java11镜像](docker/定制java11镜像)
   - [ 2.docker镜像-定制基于java17镜像](docker/定制java17镜像)
   - [ 3.docker镜像-定制基于java21镜像](docker/定制java21镜像)
   - [ 4.docker镜像-定制基于java17的maven镜像](docker/定制基于java17的maven镜像)
   - [ 5.docker镜像-定制基于java21的maven镜像](docker/定制基于java21的maven镜像)
   - [ 6.Docker容器目录varlibcontainers日志文件太大控制](docker/Docker容器目录varlibcontainers日志文件太大控制)
+
 - logger日志
+  
   - [1. 基于logback-纯java版本SDK实现](base/logback/基于logback的纯java版本SDK实现)
   - [2. 基于logback-标记日志过滤器MarkerFilter](base/logback/基于logback标记日志过滤器MarkerFilter)
   - [3. 基于logback-packagingData属性配置](base/logback/基于logback-packagingData属性配置)
@@ -27,7 +38,9 @@
   - [6. 基于logback-日志文件XZ压缩](base/logback/基于logback的日志文件XZ压缩)
   - [7. 基于logback-布局Layouts格式化日志消息](base/logback/基于logback布局Layouts格式化日志消息)
   - [8. 基于logback-JsonEncoder序列化编码](base/logback/基于logback-JsonEncoder序列化编码)
+
 - 数据库
+  
   - [1.1. druid连接池-保活机制源码](datasource/druid/druid数据库连接池保活机制源码 "多数据源")
   - [1.2. druid连接池-如何维护](datasource/druid/druid数据库连接池如何维护 "多线程")
   - [1.3. druid连接池-物理连接超时时间phyTimeoutMills及物理最大连接数phyMaxUseCount](datasource/druid/druid数据库连接池物理连接超时时间phyTimeoutMills及物理最大连接数phyMaxUseCount)
@@ -50,14 +63,21 @@
   - [5.4. HikariCP-连接池allow-pool-suspension配置](datasource/HikariCp/HikariCP-连接池allow-pool-suspension配置)
   - [5.5. HikariCP-连接池keepalive-time配置](datasource/HikariCp/HikariCP-连接池keepalive-time配置)  
 * 2025年01月
+  
   - [1.springboot将Filter注册到servlet容器后执行顺序两种定义方案](dailyliteracy/202501/1.springboot将Filter注册到servlet容器后执行顺序两种定义方案)
+
 * 2024年12月
+  
   - [1.knife4j+springboot3.4异常无法正确展示文档](dailyliteracy/202412/1.knife4j+springboot3.4异常无法正确展示文档)
+
 * 2024年11月
+  
   - [1.LuaJava](dailyliteracy/202411/1.LuaJava)
   - [2.Java11使用JVM同一日志框架启用日志记录](dailyliteracy/202411/2.Java11使用JVM同一日志框架启用日志记录)  
   - [3.spring通过RequestContextHolder获取HttpServletRequest对象](dailyliteracy/202411/3.spring通过RequestContextHolder获取HttpServletRequest对象)  
+
 * 2024年10月
+  
   - [1.DefaultSubscriptionRegistry注册订阅信息到内存中](dailyliteracy/202410/1.DefaultSubscriptionRegistry注册订阅信息到内存中)
   - [2.WebSocketMessageBrokerStats聚合内部信息计数器的中心类](dailyliteracy/202410/2.WebSocketMessageBrokerStats聚合内部信息计数器的中心类)
   - [3.基于springboot-websocket-STOMP协议的heartbeat心跳](dailyliteracy/202410/3.基于springboot-websocket-STOMP协议的heartbeat心跳)
@@ -65,7 +85,9 @@
   - [5.Sec-WebSocket-Protocol和Sec-WebSocket-Version](dailyliteracy/202410/5.Sec-WebSocket-Protocol和Sec-WebSocket-Version)
   - [6.springboot请求入参重复读问题ContentCachingRequestWrapper](dailyliteracy/202410/6.springboot请求入参重复读问题ContentCachingRequestWrapper)
   - [7.注解@Valid和@Validated使用案例](dailyliteracy/202410/7.注解@Valid和@Validated使用案例)
+
 * 2024年09月
+  
   - [1.spring-boot-maven-plugin插件](dailyliteracy/202409/1.spring-boot-maven-plugin插件)
   - [2.Maven项目中dependencyManagement(BOM)和pluginManagement作用](dailyliteracy/202409/2.Maven项目中dependencyManagement(BOM)和pluginManagement作用)
   - [3.Mybatis中sql数组为空判断](dailyliteracy/202409/3.Mybatis中sql数组为空判断)
@@ -83,10 +105,14 @@
   - [15.@MassageMapping和@SendTo注解详解](dailyliteracy/202409/15.@MassageMapping和@SendTo注解详解)
   - [16.springboot接口Get请求实体类入参](dailyliteracy/202409/16.springboot接口Get请求实体类入参)
   - [17.配置websocket消息代理类AbstractBrokerRegistration](dailyliteracy/202409/17.配置websocket消息代理类AbstractBrokerRegistration)
+
 * 2024年08月
+  
   - [1.Bill of Materials (BOM) POMs](dailyliteracy/202408/1.Bill-of-Materials(BOM)POMs)
   - [2.OpenFeign组件使用详解](dailyliteracy/202408/2.OpenFeign组件使用详解)
+
 * 2024年07月
+  
   - [1.Java的package-info.java文件支持](dailyliteracy/202407/1.Java的package-info.java文件支持)
   - [2.springboot故障分析FailureAnalyzer](dailyliteracy/202407/2.springboot故障分析FailureAnalyzer)
   - [3.spring-data-redis中RedisRepository仓储](dailyliteracy/202407/3.spring-data-redis中RedisRepository仓储)
@@ -96,7 +122,9 @@
   - [7.Redis的KeyExpirationEventMessageListener键过期监听器](dailyliteracy/202407/7.Redis的KeyExpirationEventMessageListener键过期监听器)    
   - [8.RedisCache存入redis的数据key为何name和id的分隔符是两个冒号](dailyliteracy/202407/8.RedisCache存入redis的数据key为何name和id的分隔符是两个冒号)   
   - [9.Maven持续集成（Continuous integration,简称CI）版本友好管理](dailyliteracy/202407/9.Maven持续集成（Continuous-integration,简称CI）版本友好管理)   
+
 * 2024年06月
+  
   - [1.Java中枚举类型比较推荐==而不推荐equals](dailyliteracy/202406/1.Java中枚举类型比较推荐==而不推荐equals)
   - [2.List.of,Arrays.asList,和Collections.singletonList创建列表的区别](dailyliteracy/202406/2.List.of,Arrays.asList,和Collections.singletonList创建列表的区别 "列表区别")
   - [3.Java的Stream如何将实体类列表转换为Map](dailyliteracy/202406/3.Java的Stream如何将实体类列表转换为Map)
@@ -115,19 +143,22 @@
   - [16.spring-boot-configuration-processor注释处理器](dailyliteracy/202406/16.spring-boot-configuration-processor注释处理器)
   - [17.spring如何给bean动态取不同的别名](dailyliteracy/202406/17.spring如何给bean动态取不同的别名)
   - [18.spring-boot-starter-data-redis是否支持reactive响应式编程](dailyliteracy/202406/18.spring-boot-starter-data-redis是否支持reactive响应式编程)
-  
+
 * NodeJs
   
   - [1.NodeJs环境安装](nodejs/1.NodeJs环境安装)
   - [2.npm镜像地址修改为淘宝](nodejs/2.npm镜像地址修改为淘宝)
   - [3.Express](nodejs/3.Express)  
   - [4.NodeJs及Express常用函数](nodejs/4.NodeJs及Express常用函数)    
+
 * k8s
-	
-	- [Telepresence工具](k8s/Telepresence工具 "Telepresence")
-	
-	- [running-services](thread/running-services "多线程")
-	  - [running-services](thread/running-services "多线程")
+  
+  - [Telepresence工具](k8s/Telepresence工具 "Telepresence")
+  
+  - [running-services](thread/running-services "多线程")
+    
+    - [running-services](thread/running-services "多线程")
 - 邮箱
+  
   - [1. SMTP或IMAP服务](email/1.SMTP或IMAP服务)  
   - [2.基于spring-boot-starter-mail通过SMTP发送邮件](email/2.基于spring-boot-starter-mail通过SMTP发送邮件)  

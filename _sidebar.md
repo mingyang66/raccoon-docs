@@ -4,10 +4,16 @@
   - [1.Mermaid图标](miscellaneous/1.mermaid图标)
   - [2.常见错误案例解析](miscellaneous/2.常见错误案例解析)  
 
-* Upgrade
+* springboot
   
-  - [1.springboot3.0迁移指南](Upgrade/1.springboot3.0迁移指南)  
-  - [2.springboot4.0迁移指南](Upgrade/2.springboot4.0迁移指南)
+  - [1.springboot3.0迁移指南](springboot/1.springboot3.0迁移指南)  
+  - [2.springboot4.0迁移指南](springboot/2.springboot4.0迁移指南)
+  - [3.springboot将Filter注册到servlet容器后执行顺序两种定义方案](springboot/3.springboot将Filter注册到servlet容器后执行顺序两种定义方案)
+  - [4.springboot3.4+knife4j异常无法正确展示文档](springboot/4.springboot3.4+knife4j异常无法正确展示文档)
+
+* 大模型
+  
+  - [1.什么是MCP](AI/1.什么是MCP)
 
 * SDKMAN
   
@@ -15,16 +21,19 @@
   - [2.SDKMAN!安装Maven](SDKMAN/2.SDKMAN!安装Maven)
   - [3.SDKMAN!关联已安装JDK](SDKMAN/3.SDKMAN!关联已安装JDK)
 
-* JVM虚拟机
+* Java
   
-  - [1.Java11使用JVM同一日志框架启用日志记录](JVM/1.Java11使用JVM同一日志框架启用日志记录)
-  - [2.JDK常见问题](JVM/2.JDK常见问题)
-* OpenSsl
+  - [1.Java11使用JVM同一日志框架启用日志记录](Java/1.Java11使用JVM同一日志框架启用日志记录)
+  - [2.JDK常见问题](Java/2.JDK常见问题)
+  - [3.Java语法糖Record](Java/3.Java语法糖Record)
 
-  - [1.OpenSsl生成RSA公私钥](OpenSsl/1.OpenSsl生成RSA公私钥)
-  - [2.Java生成RSA公私钥](OpenSsl/2.Java生成RSA公私钥)
-  - [3.RSA私钥PKCS8存储格式](OpenSsl/3.RSA私钥PKCS8存储格式)
-  - [4.Java兼容PKCS1传统格式](OpenSsl/4.Java兼容PKCS1传统格式)
+* OpenSsl
+  
+  - [1.1.非对称-OpenSsl生成RSA公私钥](OpenSsl/1.OpenSsl生成RSA公私钥)
+  - [1.2.非对称-Java生成RSA公私钥](OpenSsl/2.Java生成RSA公私钥)
+  - [1.3.非对称-RSA私钥PKCS8存储格式](OpenSsl/3.RSA私钥PKCS8存储格式)
+  - [1.4.非对称-Java兼容PKCS1传统格式](OpenSsl/4.Java兼容PKCS1传统格式)
+  - [1.5.非对称-Rsa加解密PKCS1Padding填充方案](OpenSsl/5.Rsa加解密PKCS1Padding填充方案)
 - docker容器
   
   - [ 1.docker镜像-定制基于java11镜像](docker/定制java11镜像)
@@ -68,14 +77,6 @@
   - [5.3. HikariCP-连接池minimum-idle和maximum-pool-size配置](datasource/HikariCp/HikariCP-连接池minimum-idle和maximum-pool-size配置)
   - [5.4. HikariCP-连接池allow-pool-suspension配置](datasource/HikariCp/HikariCP-连接池allow-pool-suspension配置)
   - [5.5. HikariCP-连接池keepalive-time配置](datasource/HikariCp/HikariCP-连接池keepalive-time配置)  
-* 2025年01月
-  
-  - [1.springboot将Filter注册到servlet容器后执行顺序两种定义方案](dailyliteracy/202501/1.springboot将Filter注册到servlet容器后执行顺序两种定义方案)
-
-* 2024年12月
-  
-  - [1.knife4j+springboot3.4异常无法正确展示文档](dailyliteracy/202412/1.knife4j+springboot3.4异常无法正确展示文档)
-
 * 2024年11月
   
   - [1.LuaJava](dailyliteracy/202411/1.LuaJava)

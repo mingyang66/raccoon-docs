@@ -11,6 +11,7 @@
   - [3.springboot将Filter注册到servlet容器后执行顺序两种定义方案](springboot/3.springboot将Filter注册到servlet容器后执行顺序两种定义方案)
   - [4.springboot3.4+knife4j异常无法正确展示文档](springboot/4.springboot3.4+knife4j异常无法正确展示文档)
   - [5.OpenFeign组件使用详解](springboot/5.OpenFeign组件使用详解)
+  - [6.spring通过RequestContextHolder获取HttpServletRequest对象](springboot/6.spring通过RequestContextHolder获取HttpServletRequest对象)
 
 * 大模型
   
@@ -84,12 +85,6 @@
   - [5.3. HikariCP-连接池minimum-idle和maximum-pool-size配置](datasource/HikariCp/HikariCP-连接池minimum-idle和maximum-pool-size配置)
   - [5.4. HikariCP-连接池allow-pool-suspension配置](datasource/HikariCp/HikariCP-连接池allow-pool-suspension配置)
   - [5.5. HikariCP-连接池keepalive-time配置](datasource/HikariCp/HikariCP-连接池keepalive-time配置)  
-* 2024年11月
-  
-  - [1.LuaJava](dailyliteracy/202411/1.LuaJava)
-  - [2.Java11使用JVM同一日志框架启用日志记录](dailyliteracy/202411/2.Java11使用JVM同一日志框架启用日志记录)  
-  - [3.spring通过RequestContextHolder获取HttpServletRequest对象](dailyliteracy/202411/3.spring通过RequestContextHolder获取HttpServletRequest对象)  
-
 * 2024年10月
   
   - [1.DefaultSubscriptionRegistry注册订阅信息到内存中](dailyliteracy/202410/1.DefaultSubscriptionRegistry注册订阅信息到内存中)

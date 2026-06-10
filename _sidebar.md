@@ -10,6 +10,7 @@
   - [2.springboot4.0迁移指南](springboot/2.springboot4.0迁移指南)
   - [3.springboot将Filter注册到servlet容器后执行顺序两种定义方案](springboot/3.springboot将Filter注册到servlet容器后执行顺序两种定义方案)
   - [4.springboot3.4+knife4j异常无法正确展示文档](springboot/4.springboot3.4+knife4j异常无法正确展示文档)
+  - [5.OpenFeign组件使用详解](springboot/5.OpenFeign组件使用详解)
 
 * 大模型
   
@@ -118,10 +119,6 @@
   - [15.@MassageMapping和@SendTo注解详解](dailyliteracy/202409/15.@MassageMapping和@SendTo注解详解)
   - [16.springboot接口Get请求实体类入参](dailyliteracy/202409/16.springboot接口Get请求实体类入参)
   - [17.配置websocket消息代理类AbstractBrokerRegistration](dailyliteracy/202409/17.配置websocket消息代理类AbstractBrokerRegistration)
-
-* 2024年08月
-  
-  - [2.OpenFeign组件使用详解](dailyliteracy/202408/2.OpenFeign组件使用详解)
 
 * 2024年07月
   

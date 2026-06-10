@@ -21,6 +21,12 @@
   - [2.SDKMAN!安装Maven](SDKMAN/2.SDKMAN!安装Maven)
   - [3.SDKMAN!关联已安装JDK](SDKMAN/3.SDKMAN!关联已安装JDK)
 
+* Maven
+  
+  - [1.Bill of Materials (BOM) POMs](maven/1.Bill-of-Materials(BOM)POMs)
+  - [2.发布jar包到maven中央仓库配置](maven/2.发布jar包到maven中央仓库配置)
+  - [3.flatten-maven-plugin扁平化版本插件](maven/3.flatten-maven-plugin扁平化版本插件)
+
 * Java
   
   - [1.Java11使用JVM同一日志框架启用日志记录](Java/1.Java11使用JVM同一日志框架启用日志记录)
@@ -115,7 +121,6 @@
 
 * 2024年08月
   
-  - [1.Bill of Materials (BOM) POMs](dailyliteracy/202408/1.Bill-of-Materials(BOM)POMs)
   - [2.OpenFeign组件使用详解](dailyliteracy/202408/2.OpenFeign组件使用详解)
 
 * 2024年07月

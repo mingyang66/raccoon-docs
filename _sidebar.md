@@ -26,14 +26,69 @@
 * Maven
   
   - [1.Maven-Bill of Materials (BOM) POMs](maven/1.Bill-of-Materials(BOM)POMs)
+  
   - [2.Maven-gpg签名插件发布jar到maven中央仓库](maven/2.gpg签名插件发布jar到maven中央仓库)
+  
   - [3.Maven-flatten-maven-plugin扁平化版本插件](maven/3.flatten-maven-plugin扁平化版本插件)
+  
   - [4.Maven-持续集成（Continuous-integration,简称CI）版本友好管理](maven/4.Maven持续集成（Continuous-integration,简称CI）版本友好管理)
+  
   - [5.Maven-Wrapper安装指令](maven/5.MavenWrapper安装指令)
+  
   - [6.Maven-仓库推送报401Content-access](maven/6.maven仓库推送报401Content-access)
+  
   - [7.Maven-gpg-plugin插件](maven/7.maven-gpg-plugin插件)
+  
   - [8.Maven-项目中dependencyManagement(BOM)和pluginManagement作用](maven/8.Maven项目中dependencyManagement(BOM)和pluginManagement作用)
+  
   - [9.Maven-spring-boot-maven-plugin插件](maven/9.spring-boot-maven-plugin插件)
+
+* RabbitMQ
+  
+  - [1.RabbitMQ节点1认为节点2已经丢失](rabbitmq/1.RabbitMQ节点1认为节点2已经丢失)
+  - [2.RabbitMQ发送消息附带BasicProperties属性详解](rabbitmq/2.RabbitMQ发送消息附带BasicProperties属性详解)
+  - [3.RabbitMQ基本使用详解](rabbitmq/3.RabbitMQ基本使用详解)
+  - [4.RabbitMQ消费端CancelCallback回调接口详解](rabbitmq/4.RabbitMQ消费端CancelCallback回调接口详解)
+  - [5.RabbitMQ学习笔记：4369、5672、15672、25672默认端口号修改](rabbitmq/5.RabbitMQ学习笔记：4369、5672、15672、25672默认端口号修改)
+  - [6.RabbitMQ学习笔记：addReturnListener监听回退消息](rabbitmq/6.RabbitMQ学习笔记：addReturnListener监听回退消息)
+  - [7.RabbitMQ学习笔记：CentOS7中安装RabbitMQ集群](rabbitmq/7.RabbitMQ学习笔记：CentOS7中安装RabbitMQ集群)
+  - [8.RabbitMQ学习笔记：centos7中操作rabbitmqctl指令encoding_latin1_may_cause_Elixir_to_malf](rabbitmq/8.RabbitMQ学习笔记：centos7中操作rabbitmqctl指令encoding_latin1_may_cause_Elixir_to_malf)
+  - [9.RabbitMQ学习笔记：Connections、Channels、Queues之state状态](rabbitmq/9.RabbitMQ学习笔记：Connections、Channels、Queues之state状态)
+  - [10.RabbitMQ学习笔记：Event-Exchange-Plugin(事件交换器插件)rabbitmq-event-exchange](rabbitmq/10.RabbitMQ学习笔记：Event-Exchange-Plugin(事件交换器插件)rabbitmq-event-exchange)
+  - [11.RabbitMQ学习笔记：mandatory、publisher-confirms、publisher-return属性区别](rabbitmq/11.RabbitMQ学习笔记：mandatory、publisher-confirms、publisher-return属性区别)
+  - [12.RabbitMQ学习笔记：Monitoring（监控）](rabbitmq/12.RabbitMQ学习笔记：Monitoring（监控）)
+  - [13.RabbitMQ学习笔记：Queue队列](rabbitmq/13.RabbitMQ学习笔记：Queue队列)
+  - [14.RabbitMQ学习笔记：rabbitmq-server-detachedWarningPIDfilenotwritten;-detachedwaspassed](rabbitmq/14.RabbitMQ学习笔记：rabbitmq-server-detachedWarningPIDfilenotwritten;-detachedwaspassed)
+  - [15.RabbitMQ学习笔记：RabbitMQ能打开最大连接数](rabbitmq/15.RabbitMQ学习笔记：RabbitMQ能打开最大连接数)
+  - [16.RabbitMQ学习笔记：Springboot-amqp之spring_listener_return_correlation、spring_returned_message_correlation详解](rabbitmq/16.RabbitMQ学习笔记：Springboot-amqp之spring_listener_return_correlation、spring_returned_message_correlation详解)
+  - [17.RabbitMQ学习笔记：springboot2-amqp集成生产者消费者](rabbitmq/17.RabbitMQ学习笔记：springboot2-amqp集成生产者消费者)
+  - [18.RabbitMQ学习笔记：调整吞吐量TCP-Buffer-Size](rabbitmq/18.RabbitMQ学习笔记：调整吞吐量TCP-Buffer-Size)
+  - [19.RabbitMQ学习笔记：端口号解析（Port-Access）](rabbitmq/19.RabbitMQ学习笔记：端口号解析（Port-Access））)
+  - [20.RabbitMQ学习笔记：队列的HA高可用性](rabbitmq/20.RabbitMQ学习笔记：队列的HA高可用性)
+  - [21.RabbitMQ学习笔记：队列容量设置（x-max-length、x-max-length-bytes、x-overflow）](rabbitmq/21.RabbitMQ学习笔记：队列容量设置（x-max-length、x-max-length-bytes、x-overflow）)
+  - [22.RabbitMQ学习笔记：惰性队列（Lazy-Queues）](rabbitmq/22.RabbitMQ学习笔记：惰性队列（Lazy-Queues）)
+  - [23.RabbitMQ学习笔记：高级特性TTL（过期时间）](rabbitmq/23.RabbitMQ学习笔记：高级特性TTL（过期时间）)
+  - [24.RabbitMQ学习笔记：高可用性（镜像）队列](rabbitmq/24.RabbitMQ学习笔记：高可用性（镜像）队列)
+  - [25.RabbitMQ学习笔记：获取消息（Ack-Mode）](rabbitmq/25.RabbitMQ学习笔记：获取消息（Ack-Mode）)
+  - [26.RabbitMQ学习笔记：集群和网络分区（Network-Partitions）](rabbitmq/26.RabbitMQ学习笔记：集群和网络分区（Network-Partitions）)
+  - [27.RabbitMQ学习笔记：节点间通信缓冲区大小限制（Buffer-Size-Limit）](rabbitmq/27.RabbitMQ学习笔记：节点间通信缓冲区大小限制（Buffer-Size-Limit）)
+  - [28.RabbitMQ学习笔记：节点名称详解、rabbitmq-server、及rabbitmq-env.conf](rabbitmq/28.RabbitMQ学习笔记：节点名称详解、rabbitmq-server、及rabbitmq-env.conf)
+  - [29.RabbitMQ学习笔记：流控（Per-connection_flow_control）](rabbitmq/29.RabbitMQ学习笔记：流控（Per-connection_flow_control）)
+  - [30.RabbitMQ学习笔记：内存(Memory)磁盘空间（Disk-space）阀值](rabbitmq/30.RabbitMQ学习笔记：内存(Memory)磁盘空间（Disk-space）阀值)
+  - [31.RabbitMQ学习笔记：内置Prometheus支持](rabbitmq/31.RabbitMQ学习笔记：内置Prometheus支持)
+  - [32.RabbitMQ学习笔记：使用Docker部署RabbitMQ集群](rabbitmq/32.RabbitMQ学习笔记：使用Docker部署RabbitMQ集群)
+  - [33.RabbitMQ学习笔记：死信交换机DLX](rabbitmq/33.RabbitMQ学习笔记：死信交换机DLX)
+  - [35.RabbitMQ学习笔记：消费者预取消息（basic.qos）](rabbitmq/35.RabbitMQ学习笔记：消费者预取消息（basic.qos）)
+  - [36.RabbitMQ学习笔记：消息发布确认（Publisher-Confirms）](rabbitmq/36.RabbitMQ学习笔记：消息发布确认（Publisher-Confirms）)
+  - [37.RabbitMQ学习笔记：消息服务器进程详解](rabbitmq/37.RabbitMQ学习笔记：消息服务器进程详解)
+  - [38.RabbitMQ学习笔记：消息优先级（priority）](rabbitmq/38.RabbitMQ学习笔记：消息优先级（priority）)
+  - [39.RabbitMQ学习笔记：消息追踪Firehose功能详解](rabbitmq/39.RabbitMQ学习笔记：消息追踪Firehose功能详解)
+  - [40.RabbitMQ学习笔记：消息追踪rabbitmq_tracing插件](rabbitmq/40.RabbitMQ学习笔记：消息追踪rabbitmq_tracing插件)
+  - [41.RabbitMQ学习笔记：虚拟主机（Virtual-Hosts）](rabbitmq/41.RabbitMQ学习笔记：虚拟主机（Virtual-Hosts）)
+  - [42.RabbitMQ学习笔记：一篇搞定RabbitMQ延迟队列(DLX、TTL及rabbitmq_delayed_message_exchange插件)](rabbitmq/42.RabbitMQ学习笔记：一篇搞定RabbitMQ延迟队列(DLX、TTL及rabbitmq_delayed_message_exchange插件))
+  - [43.RabbitMQ之basicConsume、basicCancel、basicPublish等方法详解](rabbitmq/43.RabbitMQ之basicConsume、basicCancel、basicPublish等方法详解)
+  - [44.springboot-RabbitMQ客户端连接故障恢复](rabbitmq/44.springboot-RabbitMQ客户端连接故障恢复)
+  - [45.springboot-rabbitmq属性配置spring.rabbitmq.publisher-confirm和spring.rabbitmq.publisher-confirm-type详解](rabbitmq/45.springboot-rabbitmq属性配置spring.rabbitmq.publisher-confirm和spring.rabbitmq.publisher-confirm-type详解)
 
 * Java
   
@@ -103,7 +158,6 @@
 
 * 2024年09月
   
-  - 
   - [3.Mybatis中sql数组为空判断](dailyliteracy/202409/3.Mybatis中sql数组为空判断)
   - [7.SpringBootCLI命令行工具](dailyliteracy/202409/7.SpringBootCLI命令行工具)
   - [8.搭建第一个SpringShell案例](dailyliteracy/202409/8.搭建第一个SpringShell案例)

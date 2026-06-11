@@ -25,9 +25,15 @@
 
 * Maven
   
-  - [1.Bill of Materials (BOM) POMs](maven/1.Bill-of-Materials(BOM)POMs)
-  - [2.发布jar包到maven中央仓库配置](maven/2.发布jar包到maven中央仓库配置)
-  - [3.flatten-maven-plugin扁平化版本插件](maven/3.flatten-maven-plugin扁平化版本插件)
+  - [1.Maven-Bill of Materials (BOM) POMs](maven/1.Bill-of-Materials(BOM)POMs)
+  - [2.Maven-gpg签名插件发布jar到maven中央仓库](maven/2.gpg签名插件发布jar到maven中央仓库)
+  - [3.Maven-flatten-maven-plugin扁平化版本插件](maven/3.flatten-maven-plugin扁平化版本插件)
+  - [4.Maven-持续集成（Continuous-integration,简称CI）版本友好管理](maven/4.Maven持续集成（Continuous-integration,简称CI）版本友好管理)
+  - [5.Maven-Wrapper安装指令](maven/5.MavenWrapper安装指令)
+  - [6.Maven-仓库推送报401Content-access](maven/6.maven仓库推送报401Content-access)
+  - [7.Maven-gpg-plugin插件](maven/7.maven-gpg-plugin插件)
+  - [8.Maven-项目中dependencyManagement(BOM)和pluginManagement作用](maven/8.Maven项目中dependencyManagement(BOM)和pluginManagement作用)
+  - [9.Maven-spring-boot-maven-plugin插件](maven/9.spring-boot-maven-plugin插件)
 
 * Java
   
@@ -97,12 +103,8 @@
 
 * 2024年09月
   
-  - [1.spring-boot-maven-plugin插件](dailyliteracy/202409/1.spring-boot-maven-plugin插件)
-  - [2.Maven项目中dependencyManagement(BOM)和pluginManagement作用](dailyliteracy/202409/2.Maven项目中dependencyManagement(BOM)和pluginManagement作用)
+  - 
   - [3.Mybatis中sql数组为空判断](dailyliteracy/202409/3.Mybatis中sql数组为空判断)
-  - [4.SDKMAN!软件开发工具包管理器](dailyliteracy/202409/4.SDKMAN!软件开发工具包管理器)
-  - [5.SDKMAN!安装Maven](dailyliteracy/202409/5.SDKMAN!安装Maven)
-  - [6.SDKMAN!关联已安装JDK](dailyliteracy/202409/6.SDKMAN!关联已安装JDK)
   - [7.SpringBootCLI命令行工具](dailyliteracy/202409/7.SpringBootCLI命令行工具)
   - [8.搭建第一个SpringShell案例](dailyliteracy/202409/8.搭建第一个SpringShell案例)
   - [9.SpringShell基于注解定义命令](dailyliteracy/202409/9.SpringShell基于注解定义命令)
@@ -125,7 +127,6 @@
   - [6.Redis发布订阅PUBSUB](dailyliteracy/202407/6.Redis发布订阅PUBSUB)
   - [7.Redis的KeyExpirationEventMessageListener键过期监听器](dailyliteracy/202407/7.Redis的KeyExpirationEventMessageListener键过期监听器)    
   - [8.RedisCache存入redis的数据key为何name和id的分隔符是两个冒号](dailyliteracy/202407/8.RedisCache存入redis的数据key为何name和id的分隔符是两个冒号)   
-  - [9.Maven持续集成（Continuous integration,简称CI）版本友好管理](dailyliteracy/202407/9.Maven持续集成（Continuous-integration,简称CI）版本友好管理)   
 
 * 2024年06月
   
@@ -140,9 +141,6 @@
   - [9.Mysql常用函数及技巧](dailyliteracy/202406/9.Mysql常用函数及技巧)
   - [10.Java延迟初始化Logger日志对象](dailyliteracy/202406/10.Java延迟初始化Logger日志对象)
   - [11.Java的module-info模块系统](dailyliteracy/202406/11.Java的module-info模块系统)
-  - [12.maven仓库推送报401Content-access](dailyliteracy/202406/12.maven仓库推送报401Content-access)
-  - [13.MavenWrapper安装指令](dailyliteracy/202406/13.MavenWrapper安装指令)
-  - [14.maven-gpg-plugin插件](dailyliteracy/202406/14.maven-gpg-plugin插件)
   - [15.Java取消警告SuppressWarnings注解](dailyliteracy/202406/15.Java取消警告SuppressWarnings注解)
   - [16.spring-boot-configuration-processor注释处理器](dailyliteracy/202406/16.spring-boot-configuration-processor注释处理器)
   - [17.spring如何给bean动态取不同的别名](dailyliteracy/202406/17.spring如何给bean动态取不同的别名)

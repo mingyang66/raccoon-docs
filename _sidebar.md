@@ -13,9 +13,10 @@
   - [5.OpenFeign组件使用详解](springboot/5.OpenFeign组件使用详解)
   - [6.spring通过RequestContextHolder获取HttpServletRequest对象](springboot/6.spring通过RequestContextHolder获取HttpServletRequest对象)
 
-* 大模型
+* 小妖太太的记账本
   
-  - [1.什么是MCP](AI/1.什么是MCP)
+  - [1.打包成桌面系统方法](accountbook/1.打包成桌面系统方法)
+  - [2.数据库sqlite操作方法](accountbook/2.数据库sqlite操作方法)
 
 * SDKMAN
   

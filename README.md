@@ -24,23 +24,9 @@
 | [druid-spring-boot-starter](https://github.com/alibaba/druid)                                                                                | [cc-switch-官网](https://ccswitch.io/zh/)                          | [Hugging Face](https://huggingface.co/)                                 |                                                                                                            |                                                           |                                                |
 | [spring-shell-dependencies-github](https://github.com/spring-projects/spring-shell)                                                          | [AI网关Sub2Api](https://github.com/Wei-Shaw/sub2api)               |                                                                         |                                                                                                            |                                                           |                                                |
 
-###### 一、macos设置环境变量
-
-```sh
-export 'key'
-```
-
-###### 一、macos查看export命令设置的环境变量
-
-- 方案1：echo $PATH
-
-- 方案2：printenv
-
-- 方案3：env
-
-- 方案4：vi ~/.bash_profile
-
-###### 三、快捷键
+###### 一、快捷键
 
 - 展示隐藏文件：Command+Shift+.
 - 强制退出程序：Command+Alt(option)+Esc
+- Windows：按下 Win + Ctrl + D 新建一个虚拟桌面
+- Windows：按下快捷键 Win + V，就能呼出一个历史面板

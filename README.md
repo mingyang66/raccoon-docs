@@ -28,5 +28,5 @@
 
 - 展示隐藏文件：Command+Shift+.
 - 强制退出程序：Command+Alt(option)+Esc
-- Windows：按下 Win + Ctrl + D 新建一个虚拟桌面
+- Windows：按下 Win + Ctrl + D 新建一个虚拟桌面，用 `Win + Ctrl + ←/→` 切换
 - Windows：按下快捷键 Win + V，就能呼出一个历史面板
